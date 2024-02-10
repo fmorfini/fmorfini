@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm a PhD candidate in psychology at Northeastern University working with Susan Whitfield-Gabrieli in the [EPIC lab](https://whitfield-gabrieli.sites.northeastern.edu/).
+
 
 <!--
 **fmorfini/fmorfini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
