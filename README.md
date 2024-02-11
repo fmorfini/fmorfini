@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm a PhD candidate in psychology at Northeastern University working with Susan Whitfield-Gabrieli in the [EPIC lab](https://whitfield-gabrieli.sites.northeastern.edu/).
+I am a PhD candidate in psychology at Northeastern University working with Susan Whitfield-Gabrieli in the [EPIC lab](https://whitfield-gabrieli.sites.northeastern.edu/).
+I am interested in applying multimodal neuroimaging techniques to better characterize depression and anxiety in youth, improve the diagnostic process, and develop novel treatment interventions.
 
 
 <!--
