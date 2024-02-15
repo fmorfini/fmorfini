@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/fmorfini/create_gifs/blob/main/my_brain_on_coffee.gif" width="250" />
+<img align="right" src="https://github.com/fmorfini/assets_general/blob/main/my_brain_on_coffee.gif" width="250" />
 
 ### Hi there 👋
 I am a PhD candidate in psychology at Northeastern University working with Susan Whitfield-Gabrieli in the [EPIC lab](https://whitfield-gabrieli.sites.northeastern.edu/). 
