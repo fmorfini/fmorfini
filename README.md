@@ -3,6 +3,4 @@
 ### Hi there 👋
 I am a PhD candidate in psychology at Northeastern University working with [Susan Whitfield-Gabrieli](https://whitfield-gabrieli.sites.northeastern.edu/), [Randy Auerbach](https://www.auerbachlab.com/), and [Juliet Davidow](https://lbdlpsych.sites.northeastern.edu/). My research focuses on applying multimodal neuroimaging techniques to better characterize depression and anxiety in adolescents, predict future symptom change, and develop novel treatment interventions. 
 
-I am currently in the final year of my PhD and actively looking for postdoctoral opportunities.
-
 Check out [my personal website](https://fmorfini.github.io/).
